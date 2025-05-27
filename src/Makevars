@@ -1,1 +1,2 @@
+FLIBS = -L/opt/homebrew/bin/ 
 PKG_LIBS=$(LAPACK_LIBS) $(BLAS_LIBS) $(FLIBS)
